@@ -24,6 +24,10 @@
 <img src="images/salam-messenger-app-store.png?raw=true"/>
 
 ---
+[Altyn Ýoda](https://apps.apple.com/us/app/altyn-ýoda/id6449493886)
+<img src="images/salam-messenger-app-store.png?raw=true"/>
+
+---
 
 ### Category Name 2
 
