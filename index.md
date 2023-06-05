@@ -12,8 +12,8 @@
 <img src="images/salam-news-app-store.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/salam-news-app-store.png?raw=true"/>
+[Salam Messenger](https://apps.apple.com/tm/app/salam-messenger/id1630651948)
+<img src="images/salam-messenger-app-store.png?raw=true"/>
 
 ---
 
