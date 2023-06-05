@@ -5,7 +5,7 @@
 ### iOS applications 
 
 [Live Concert Sound Effects](/sample_page)
-<img src="images/live-concert-app-store.png?raw=true"/>
+<img src="images/live-concert-app-store2.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
