@@ -4,7 +4,7 @@
 
 ### iOS applications 
 
-[Project 1 Title](/sample_page)
+[Live Concert Sound Effects](/sample_page)
 <img src="images/live-concert-app-store.png?raw=true"/>
 
 ---
