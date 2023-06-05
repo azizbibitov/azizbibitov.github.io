@@ -16,6 +16,10 @@
 <img src="images/salam-messenger-app-store.png?raw=true"/>
 
 ---
+[Content Transfer Smart Share](https://apps.apple.com/tm/app/salam-messenger/id1630651948)
+<img src="images/salam-messenger-app-store.png?raw=true"/>
+
+---
 
 ### Category Name 2
 
