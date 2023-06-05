@@ -6,7 +6,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   My name is Aziz, I have more than 3 years of professional experience developing native iOS applications. 
   I follow best practices to deliver the best results. 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/aziz-bibitov-707753252/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
