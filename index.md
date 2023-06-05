@@ -8,12 +8,12 @@
 <img src="images/live-concert-app-store2.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[SalamNews](https://apps.apple.com/ao/app/salamnews/id1637242577)
+<img src="images/salam-news-app-store.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/salam-news-app-store.png?raw=true"/>
 
 ---
 
