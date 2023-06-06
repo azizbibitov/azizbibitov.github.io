@@ -8,6 +8,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   I follow best practices to deliver the best results.
   <br><br>
   
+  <a href="https://www.upwork.com/freelancers/~016a583c9e00fc71bb?viewMode=1">View My Upwork Profile</a> 
+  
 remote_theme: pages-themes/tactile@v0.2.0
 plugins:
 - jekyll-remote-theme
