@@ -8,13 +8,6 @@
 ---
 <img src="images/live-concert-app-store2.png?raw=true"/>
 
-<img src="images/live-concert copy.png?raw=true"/>
-<img src="images/live-concert (1) copy.png?raw=true"/>
-<img src="images/live-concert (2) copy.png?raw=true"/>
-<img src="images/live-concert (3) copy.png?raw=true"/>
-
-
-
 [SalamNews](https://apps.apple.com/ao/app/salamnews/id1637242577)
 ---
 <img src="images/salam-news-app-store.png?raw=true"/>
