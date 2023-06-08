@@ -7,7 +7,7 @@
 [Live Concert Sound Effects](https://apps.apple.com/us/app/live-concert-sound-effects/id1621842040)
 ---
 <img src="images/live-concert-app-store2.png?raw=true"/>
----
+
 <img src="images/live-concert copy.png?raw=true"/>
 <img src="images/live-concert (1) copy.png?raw=true"/>
 <img src="images/live-concert (2) copy.png?raw=true"/>
