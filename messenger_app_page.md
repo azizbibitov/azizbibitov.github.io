@@ -1,4 +1,4 @@
-## Salam Messenger
+[Salam Messenger](https://apps.apple.com/tm/app/salam-messenger/id1630651948)
 
 **Project description:** Salam is a new generation application that contains all the possibilities for communication and entertainment. Here you can not only chat with friends, but also share your moments of life. For all this, separate applications are no longer needed - everything is available in Salam.
 
